@@ -15,8 +15,7 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: "Lato
-	    
+    font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
     color: #555;
@@ -24,7 +23,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
     
-    margin-top: 0px;
+    margin-top: 70px;
 }
 
 /* Titles */
@@ -38,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Paragraph & Typographic */
 p {
     line-height: 28px;
-    margin-bottom: 0px;
+    margin-bottom: 25px;
 }
 
 .centered {
@@ -46,7 +45,7 @@ p {
 }
 
 .mt {
-	margin-top: 0px;
+	margin-top: 40px;
 }
 
 /* Links */
@@ -114,7 +113,7 @@ a:after {
 }
 
 .btn {
-	padding: 0px 0px;
+	padding: 10px 30px;
 	margin-bottom: 0;
 	font-size: 18px;
 	border: 5px solid transparent;
@@ -130,8 +129,8 @@ a:after {
 /* hello */
 #hello {
 	width: 100%;
-	padding-top: 0px;
-	padding-bottom: 0px;
+	padding-top: 250px;
+	padding-bottom: 250px;
 }
 
 #hello h1 {
@@ -149,14 +148,14 @@ a:after {
 /* Green */
 #green {
 	background-color: #74cfae;
-	padding-top: 00px;
+	padding-top: 50px;
 	margin-bottom: 0px;
 }
 
 #green h3 {
 	color: white;
 	font-weight: 400;
-	margin-bottom: 00px;
+	margin-bottom: 35px;
 }
 
 #green p {
@@ -168,9 +167,9 @@ a:after {
 /* Skills */
 #skills {
 	background-color: #4e4e4e;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	margin-top: 0px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-top: 50px;
 }
 
 #skills h3 {
